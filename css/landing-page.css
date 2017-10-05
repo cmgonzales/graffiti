@@ -165,3 +165,14 @@ footer {
 p.copyright {
   margin: 15px 0 0;
 }
+
+@media(max-width:883px) {
+  .intro-message {
+    font-size: 10px;
+  }
+}
+@media(max-width:749px) {
+  h1{
+     display: none;
+  }
+}

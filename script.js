@@ -3,4 +3,5 @@ $(document).ready(function(){
     $(".intro-message").animate({left: "320px"}, 10000);
    
 });
+
  
